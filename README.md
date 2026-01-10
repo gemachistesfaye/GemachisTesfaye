@@ -14,7 +14,7 @@
 
 <!-- GitHub Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GemachisTesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
@@ -52,7 +52,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
 
-### ✈️ [Ethiopian Airlines DB](https://github.com/urjiiko1/Database-Project)
+### ✈️ [Ethiopian Airlines DB](https://github.com/gemachistesfaye/Database-Project)
 A relational **MySQL database system** for managing Ethiopian Airlines flights, crew and **student discounts**.
 
 - 🎓 Automated student ID discount  
@@ -61,7 +61,7 @@ A relational **MySQL database system** for managing Ethiopian Airlines flights, 
 
 ---
 
-### 📊 [E-Commerce Insights Dashboard](https://github.com/urjiiko1/FUTURE_DS_01)
+### 📊 [E-Commerce Insights Dashboard](https://github.com/gemachistesfaye/FUTURE_DS_01)
 A **Power BI Dashboard** for analyzing e-commerce data.  
 
 - 📈 Insights on top products, discounts & sales segments  
@@ -70,18 +70,18 @@ A **Power BI Dashboard** for analyzing e-commerce data.
 
 ---
 
-### 🧊 [GlassLogin UI Experience](https://github.com/urjiiko1/code-craft/tree/main/CSS02)
+### 🧊 [GlassLogin UI Experience](https://github.com/gemachistesfaye/Frontend-Showcase/tree/main/CSS02)
 A modern, **glassmorphism-styled login system** with CSS animations.  
 
 - 🍂 Falling leaves background  
 - 🚴 Animated girl SVG  
 - 💬 Toast messages for login/signup  
 
-> ▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐  
+> ▶️ **Live Demo:** [View Project Live Here](https://gemachistesfaye.github.io/Frontend-Showcase/CSS02/) 🌐  
 
 ---
 
-### 📝 [Grade Evaluator](https://github.com/urjiiko1/GradeEvaluator)
+### 📝 [Grade Evaluator](https://github.com/gemachistesfaye/GradeEvaluator)
 My **first Python web app** (built in Nehase 2017).  
 
 - ✅ Enter marks → get grade output  
@@ -92,14 +92,14 @@ My **first Python web app** (built in Nehase 2017).
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/urjiiko1/Portfolio)
+### 🌐 [Personal Portfolio](https://github.com/gemachistesfaye/Portfolio)
 A **modern responsive portfolio** to showcase my projects, skills and journey.
 
 - 💻 Built with **React.js & TailwindCSS**  
 - 🎨 Responsive design with clean UI  
 - 🚀 Deployed on **GitHub Pages**  
 
-> ▶️ **Live Demo:** [Visit My Portfolio](https://urjiiko1.github.io/Portfolio) 🌐  
+> ▶️ **Live Demo:** [Visit My Portfolio](https://gemachistesfaye.github.io/Portfolio) 🌐  
 
 ---
 
