@@ -99,7 +99,7 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
 - 🎨 Responsive design with clean UI  
 - 🚀 Deployed on **GitHub Pages**  
 
-> ▶️ **Live Demo:** [Visit My Portfolio](https://gemachistesfaye.github.io/Portfolio) 🌐  
+> ▶️ **Live Demo:** [Visit My Portfolio](https://gemachistesfaye.github.io/Portfilo) 🌐  
 
 ---
 
