@@ -140,7 +140,7 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GemachisTesfaye&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gemachistesfaye&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>        
 
 <p align="center">
@@ -148,7 +148,7 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemachisTesfaye&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemachistesfaye&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
