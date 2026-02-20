@@ -52,7 +52,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
 
-### 🌐 [My Portfolio](https://gemachistesfaye.github.io/portfolio)
+### 🌐 [My Portfolio](https://github.com/gemachistesfaye/Portfolio)
 Central hub for all my projects, skills and contact info.  
 
 - 💼 Showcase of web apps, dashboards & utilities  
@@ -63,7 +63,7 @@ Central hub for all my projects, skills and contact info.
 
 ---
 
-### ✈️ [Ethiopian Airlines DB](https://gemachistesfaye.github.io/ethiopian-airlines-db)
+### ✈️ [Ethiopian Airlines DB](https://github.com/gemachistesfaye/Database-Project)
 A **MySQL relational database** managing flights, crew and student discounts.  
 
 - 🎓 Automated student ID discount  
@@ -75,7 +75,7 @@ A **MySQL relational database** managing flights, crew and student discounts.
 
 ---
 
-### 🛍️ [Abebe-Bookstore](https://abebebookstore.vercel.app/)
+### 🛍️ [Abebe-Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore)
 Responsive bookstore web app showcasing Ethiopian books.  
 
 - 📚 Browse, search, filter books  
@@ -97,7 +97,7 @@ Interactive portal for Ethiopian festivals with dual calendars and reminders.
 
 ---
 
-### 🌱 [HUEPDC Website](https://huepdc-website12.netlify.app/)
+### 🌱 [HUEPDC Website](https://github.com/gemachistesfaye/HUEPDC-Website)
 **Haramaya University Environmental Protection & Development Club** website (collaboration).  
 
 - 🌍 Responsive design for all devices  
@@ -111,7 +111,7 @@ Interactive portal for Ethiopian festivals with dual calendars and reminders.
 
 ---
 
-### 📊 [E-Commerce Insights Dashboard](https://gemachistesfaye.github.io/Ecommerce-Dashboard)
+### 📊 [E-Commerce Insights Dashboard](https://github.com/gemachistesfaye/Ecommerce-Dashboard)
 Power BI dashboard analyzing e-commerce datasets.  
 
 - 📈 Top products, discounts & sales segments  
@@ -122,7 +122,7 @@ Power BI dashboard analyzing e-commerce datasets.
 
 ---
 
-### ⏳ [Age-Calculator](https://gemachistesfaye.github.io/Age-Calculator/)
+### ⏳ [Age-Calculator]()
 Calculates age in years, months and days accurately.  
 
 - 🧮 Handles leap years & month boundaries  
@@ -133,7 +133,7 @@ Calculates age in years, months and days accurately.
 
 ---
 
-### 🛡️ [Smart-PWD](https://gemachistesfaye.github.io/Smart-PWD/)
+### 🛡️ [Smart-PWD](https://github.com/gemachistesfaye/Smart-PWD)
 Secure, local-first password generator.  
 
 - 🔑 Generates strong passwords  
@@ -144,7 +144,7 @@ Secure, local-first password generator.
 
 ---
 
-### 📝 [Grade Evaluator](https://grade-evaluator.onrender.com/)
+### 📝 [Grade Evaluator](https://github.com/gemachistesfaye/GradeEvaluator)
 Python/Flask web app converting scores into letter grades.  
 
 - ✅ Enter marks → get grade output  
@@ -162,11 +162,11 @@ Python/ML project predicting student grades based on historical data.
 - 🤖 Predictive modeling using Python  
 - 🛠️ **Tech:** Python, Pandas, Scikit-learn  
 
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/grade-prediction-system) 🌐
+> ▶️ **Live Demo:** [Live Site](https://grade-evaluator.onrender.com/) 🌐
 
 ---
 
-### 🏫 [10-Academy-Clone](https://10academyclone.vercel.app/)
+### 🏫 [10-Academy-Clone](https://github.com/gemachistesfaye/10-Academy-Clone)
 Frontend clone of 10 Academy landing page.  
 
 - 🎨 Clean, responsive design  
@@ -211,12 +211,28 @@ Collection of projects completed during the **Summer Bootcamp**.
 
 ### ⚡ Tools & Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  
-
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/github.png" width="40" height="40" title="GitHub"/>
+  <!-- Vercel -->
+ <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/811fa1e5368eaa7c0129546430c94aab4285eac7/icons/vercel.jpg" width="40" height="40" title="Vercel"/>
+  <!-- Netlify -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" title="Netlify"/>
+  <!-- Render -->
+  <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/render.jpeg" width="40" height="40" title="Render"/>
+  <!-- Railway -->
+ <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/railway.png" width="40" height="40" title="Railway"/>
+  <!-- Terminal -->
+ <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/terminal.png" width="40" height="40" title="Terminal"/>
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
+  <!-- Canva -->
+ <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/canva.jpg" width="40" height="40" title="Canva"/>
+  <!-- Power BI -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" title="Power BI"/>
 </p>
 
 ### 🚀 Currently Learning
