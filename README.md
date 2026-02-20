@@ -71,7 +71,7 @@ A **MySQL relational database** managing flights, crew and student discounts.
 - ⚡ Advanced SQL queries  
 - 🛠️ **Tech:** MySQL, SQL  
 
-> ▶️ **Live Demo / More Info:** [Live Site](https://gemachistesfaye.github.io/ethiopian-airlines-db) 🌐
+> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Database-Project) 🌐
 
 ---
 
@@ -118,7 +118,7 @@ Power BI dashboard analyzing e-commerce datasets.
 - 🧹 Data cleaning & DAX visuals  
 - 🛠️ **Tech:** Power BI, Excel  
 
-> ▶️ **Live Dashboard:** [Live Site](https://gemachistesfaye.github.io/Ecommerce-Dashboard) 🌐
+> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Ecommerce-Dashboard) 🌐
 
 ---
 
