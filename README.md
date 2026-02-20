@@ -6,36 +6,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Information%20Science%20Student;Aspiring%20Data%20Analyst%20%26%20Frontend%20Developer;Passionate%20about%20Design%20%26%20Innovation" alt="Typing SVG" />
 </h2>     
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-<!-- Right-aligned coding GIF -->
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<!-- GitHub Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
-
-
-
 ## 👨‍🎓 About Me  
 
-🎓 I'm an **Information Science student at Haramaya University**, passionate about bridging **data science, design and technology**.  
-💡 Currently building **practical projects** in **Database Systems**, **Data Analysis** and **Frontend Development**.  
+🎓 3rd-year **Information Science student at Haramaya University**  
+💡 Passionate about **Data Analysis, Frontend Development, and Database Systems**  
 
-- 🔭 Work on: **Ethiopian Airlines DB System** with student discount automation  
-- 🌱 Learning: **Python**, **JavaScript (React.js)** and **Power BI**
-- 📊 Skilled in: **Database Design**, **Data Cleaning**, **Visualization**, **Responsive Frontends**  
-- 👯 Open to collaborate on: **Data Dashboards**, **SQL/MongoDB systems** and **Animated UI projects**  
-- 💬 Ask me about: **Power BI, SQL, MongoDB, CSS animations Data Dashboards**  
-- 🎯 Goal: To grow into a **Data Analyst & Frontend Developer**
+- 🔭 Currently working on: **Ethiopian Airlines DB System**  
+- 🌱 Learning: **Python, React.js, Power BI, SQL, MongoDB**  
+- 📊 Skilled in: **Database Design, Data Cleaning, Visualization, Responsive UI, JS Animation, TailwindCSS**  
+- 👯 Open to collaborate on: **Data Dashboards, Web Apps, SQL/MongoDB systems, Animated UI projects**  
+- 💬 Ask me about: **Power BI, SQL, MongoDB, CSS animations, JavaScript, React**  
+- 🎯 Goal: To grow into a **Data Analyst & Frontend Developer**  
 - 📫 Reach me at: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)  
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@example.com" target="_blank" style="margin-right: 10px;">
+  <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318" target="_blank" style="margin-right: 10px;">
@@ -53,53 +46,91 @@
 </h2>
 
 ### ✈️ [Ethiopian Airlines DB](https://github.com/gemachistesfaye/Database-Project)
-A relational **MySQL database system** for managing Ethiopian Airlines flights, crew and **student discounts**.
+A **MySQL relational database** for managing Ethiopian Airlines flights, crew, and student discounts.
 
 - 🎓 Automated student ID discount  
-- 🗂️ Includes ERD & 3NF normalization  
+- 🗂️ ERD & 3NF normalization  
 - ⚡ Advanced SQL queries  
+- 🛠️ **Tech:** MySQL, SQL  
+
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Database-Project) 🌐
 
 ---
 
 ### 📊 [E-Commerce Insights Dashboard](https://github.com/gemachistesfaye/FUTURE_DS_01)
-A **Power BI Dashboard** for analyzing e-commerce data.  
+A **Power BI dashboard** analyzing e-commerce datasets to uncover business insights.
 
 - 📈 Insights on top products, discounts & sales segments  
-- 🧹 Data Cleaning, DAX & visuals  
-- 🛠️ Tools: Power BI, Excel  
+- 🧹 Data cleaning and DAX visualizations  
+- 🛠️ **Tech:** Power BI, Excel  
+
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/FUTURE_DS_01) 🌐
 
 ---
 
-### 🧊 [GlassLogin UI Experience](https://github.com/gemachistesfaye/Frontend-Showcase/tree/main/CSS02)
-A modern, **glassmorphism-styled login system** with CSS animations.  
+### 🛍️ [Abebe-Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore)
+A **responsive bookstore web app** showcasing Ethiopian books with category filtering and search.
 
-- 🍂 Falling leaves background  
-- 🚴 Animated girl SVG  
-- 💬 Toast messages for login/signup  
+- 📚 Browse, search, filter books  
+- 🖥️ Interactive UI  
+- 🛠️ **Tech:** React.js, TypeScript, HTML, CSS  
 
-> ▶️ **Live Demo:** [View Project Live Here](https://gemachistesfaye.github.io/Frontend-Showcase/CSS02/) 🌐  
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Abebe-Bookstore) 🌐
+
+---
+
+### 🇪🇹 [Ethiopian-Events-Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal)
+An interactive portal for Ethiopian festivals with dual calendars and reminders.
+
+- 📅 Festival schedule  
+- 🔔 Notifications & reminders  
+- 🛠️ **Tech:** TypeScript, HTML, CSS  
+
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Ethiopian-Events-Portal) 🌐
+
+---
+
+### ⏳ [Age-Calculator](https://github.com/gemachistesfaye/Age-Calculator)
+A precise age-calculation utility that handles leap years, month boundaries, and invalid inputs.
+
+- 🧮 Calculates age in years, months, days  
+- 🔢 Correct handling of all date scenarios  
+- 🛠️ **Tech:** JavaScript, HTML, CSS  
+
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Age-Calculator) 🌐
+
+---
+
+### 🛡️ [Smart-PWD](https://github.com/gemachistesfaye/Smart-PWD)
+A **secure, local-first password generator** built with HTML, CSS, and JS. No data leaves your browser.
+
+- 🔑 Password generation & security  
+- 🔒 Local-first, no cloud storage  
+- 🛠️ **Tech:** JavaScript, HTML, CSS  
+
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Smart-PWD) 🌐
+
+---
+
+### 🏫 [10-Academy-Clone](https://github.com/gemachistesfaye/10-Academy-Clone)
+A **frontend clone** of 10 Academy landing page built with modern UI practices.
+
+- 🎨 Clean, responsive design  
+- 🖥️ Interactive sections  
+- 🛠️ **Tech:** HTML, CSS, JavaScript  
+
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/10-Academy-Clone) 🌐
 
 ---
 
 ### 📝 [Grade Evaluator](https://github.com/gemachistesfaye/GradeEvaluator)
-My **first Python web app** (built in Nehase 2017).  
+A Python web app that converts scores into letter grades with emoji-based feedback.
 
 - ✅ Enter marks → get grade output  
-- 🖥️ Built with Python & simple web framework  
-- 📚 Inspired my journey into programming  
+- 🖥️ Built with Python & Flask  
+- 📚 Learning project for programming foundations  
 
-> ▶️ **Live Demo:** [View Project Live Here](https://grade-evaluator.onrender.com/) 🌐
-
----
-
-### 🌐 [Personal Portfolio](https://github.com/gemachistesfaye/Portfolio)
-A **modern responsive portfolio** to showcase my projects, skills and journey.
-
-- 💻 Built with **React.js & TailwindCSS**  
-- 🎨 Responsive design with clean UI  
-- 🚀 Deployed on **GitHub Pages**  
-
-> ▶️ **Live Demo:** [Visit My Portfolio](https://gemachistesfaye.github.io/Portfilo) 🌐  
+▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/GradeEvaluator) 🌐
 
 ---
 
@@ -111,6 +142,8 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React.js"/>
 </p>
 
 ### 🗄️ Databases
@@ -122,9 +155,12 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
 ### ⚡ Tools & Platforms
 <p align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
 </p>
 
 ### 🚀 Currently Learning
