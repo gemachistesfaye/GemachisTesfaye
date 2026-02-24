@@ -15,20 +15,19 @@
   <img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
 
 ## 👨‍🎓 About Me  
 
 🎓 3rd-year **Information Science student at Haramaya University** focused on building **data-driven systems, AI projects, and modern web applications**.  
 
-- ✈️ Built a **production-style Ethiopian Airlines Database System** modeling flights, crew, and student discounts using relational design and advanced SQL  
-- 💻 Develop full-stack style projects combining **Python, React, SQL, and modern UI tools**  
-- 📊 Strong in **database design, problem solving, responsive interfaces, and practical AI workflows**  
-- 🚀 Currently improving in **Machine Learning, scalable system design, and real-world analytics projects**  
-- 🤝 Open to collaboration on **AI tools, data systems, dashboards, and real-world web apps**  
+- ✈️ Built a **production-style Ethiopian Airlines Database System** modeling flights, crew and student discounts using relational design and advanced SQL  
+- 💻 Develop full-stack style projects combining **Python, React, SQL and modern UI tools**  
+- 📊 Strong in **database design, problem solving, responsive interfaces and practical AI workflows**  
+- 🚀 Currently improving in **Machine Learning, scalable system design and real-world analytics projects**  
+- 🤝 Open to collaboration on **AI tools, data systems, dashboards and real-world web apps**  
 - 🎯 Goal: Become a developer who builds **intelligent, scalable platforms used by real organizations**  
 
-📫 **Reach me:** [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)
+📫 **Reach me:**
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@gmail.com" target="_blank">
@@ -57,7 +56,7 @@ Production-style relational database modeling airline operations.
 
 - Designed normalized schema (ERD, 3NF)
 - Implemented complex SQL queries & constraints
-- Models flights, crew, passengers, and student discounts
+- Models flights, crew, passengers and student discounts
 - 🛠 **Tech:** MySQL, SQL
 
 ---
@@ -65,7 +64,7 @@ Production-style relational database modeling airline operations.
 ## 🚀 Major Projects
 
 ### 🌐 [Portfolio Website](https://github.com/gemachistesfaye/Portfolio)
-Central hub showcasing projects, demos, and technical work.
+Central hub showcasing projects, demos and technical work.
 
 - Interactive UI with responsive layouts
 - Serves as personal developer platform
@@ -73,7 +72,6 @@ Central hub showcasing projects, demos, and technical work.
 
 > ▶️ Live demo coming soon
 
----
 
 ### 🇪🇹 [Ethiopian Events Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal)
 Festival platform with Ethiopian calendar logic and reminders.
@@ -84,19 +82,17 @@ Festival platform with Ethiopian calendar logic and reminders.
 
 > ▶️ Launching soon
 
----
 
 ### 🌱 [HUEPDC Club Website](https://github.com/gemachistesfaye/HUEPDC-Website)
 Collaborative real-world university website project.
 
 - Built production-ready responsive interface
-- Includes charts, galleries, and forms
+- Includes charts, galleries and forms
 - Deployed and optimized
 - 🛠 **Tech:** React, JavaScript, Chart.js, EmailJS
 
 > ▶️ https://huepdc-website12.netlify.app/
 
----
 
 ### 📊 [E-Commerce Analytics Dashboard](https://github.com/gemachistesfaye/Ecommerce-Dashboard)
 Business intelligence dashboard analyzing sales data.
@@ -112,13 +108,12 @@ Business intelligence dashboard analyzing sales data.
 ### 🛍️ [Abebe Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore)
 Interactive Ethiopian bookstore web app.
 
-- Search, filter, and responsive UI
+- Search, filter and responsive UI
 - Clean component structure
 - 🛠 **Tech:** HTML, CSS, JavaScript
 
 > ▶️ https://abebebookstore.vercel.app/
 
----
 
 ### 📝 [Grade Evaluator (Flask)](https://github.com/gemachistesfaye/GradeEvaluator)
 Python web system converting scores to grades.
@@ -129,7 +124,6 @@ Python web system converting scores to grades.
 
 > ▶️ https://grade-evaluator.onrender.com/
 
----
 
 ### 📈 [Grade Prediction ML System](https://github.com/gemachistesfaye/grade-prediction-system)
 Machine learning project predicting student performance.
@@ -147,21 +141,18 @@ Local-first secure password generator.
 
 > ▶️ https://gemachistesfaye.github.io/Smart-PWD/
 
----
 
 ### ⏳ [Age Calculator](https://github.com/gemachistesfaye/Age-Calculator)
 Precise date calculation with edge-case handling.
 
 > ▶️ https://gemachistesfaye.github.io/Age-Calculator/
 
----
 
 ### 🏫 [10 Academy Landing Clone](https://github.com/gemachistesfaye/10-Academy-Clone)
 Frontend recreation of a real landing page.
 
 > ▶️ https://10academyclone.vercel.app/
 
----
 
 ### 🎓 [Bootcamp Project Collection](https://github.com/gemachistesfaye/Summer-Bootcamp-Projects)
 Repository of learning exercises and mini apps.
