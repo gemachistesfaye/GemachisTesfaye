@@ -77,7 +77,7 @@ Responsive bookstore web app showcasing Ethiopian books.
 
 - 📚 Browse, search, filter books  
 - 🖥️ Interactive UI  
-- 🛠️ **Tech:** React.js, TypeScript, HTML, CSS  
+- 🛠️ **Tech:** HTML, CSS and JS
 
 > ▶️ **Live Demo:** [Live Site](https://abebebookstore.vercel.app/) 🌐
 
