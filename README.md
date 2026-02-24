@@ -25,9 +25,8 @@
 - 📊 Strong in **database design, problem solving, responsive interfaces and practical AI workflows**  
 - 🚀 Currently improving in **Machine Learning, scalable system design and real-world analytics projects**  
 - 🤝 Open to collaboration on **AI tools, data systems, dashboards and real-world web apps**  
-- 🎯 Goal: Become a developer who builds **intelligent, scalable platforms used by real organizations**  
-
-📫 **Reach me:**
+- 🎯 Goal: Become a developer who builds **intelligent, scalable platforms used by real organizations**
+- 📫 **Reach me at :**
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@gmail.com" target="_blank">
