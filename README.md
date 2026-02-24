@@ -166,83 +166,84 @@ Frontend recreation of a real landing page.
 ### 🎓 [Bootcamp Project Collection](https://github.com/gemachistesfaye/Summer-Bootcamp-Projects)
 Repository of learning exercises and mini apps.
 
----
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
 ## 🧰 Skills & Tools
 
-### 💻 Languages & Frameworks
+### 🚀 Core Stack (What I build with)
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" title="TailwindCSS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40" title="Bootstrap"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42" title="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="42" title="TailwindCSS"/>
 </p>
 
-### 🗄️ Databases
+---
+
+### 💻 Web & Programming Languages
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="38" title="PHP"/>
 </p>
 
-### ⚡ Tools & Platforms
+---
+
+### 🗄️ Databases & Backend
+
 <p align="left">
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/github.png" width="40" height="40" title="GitHub"/>
-  <!-- Vercel -->
- <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/811fa1e5368eaa7c0129546430c94aab4285eac7/icons/vercel.jpg" width="40" height="40" title="Vercel"/>
-  <!-- Netlify -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" title="Netlify"/>
-  <!-- Render -->
-  <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/render.jpeg" width="40" height="40" title="Render"/>
-  <!-- Railway -->
- <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/railway.png" width="40" height="40" title="Railway"/>
-  <!-- Terminal -->
- <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/terminal.png" width="40" height="40" title="Terminal"/>
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
-  <!-- Canva -->
- <img src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/ddeade38eb593ceed4ac8023816b61f7dc2bc11d/icons/canva.jpg" width="40" height="40" title="Canva"/>
-  <!-- Power BI -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" title="Flask"/>
 </p>
 
-### 🚀 Currently Learning
+---
+
+### ⚙️ Tools & Platforms I Use
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=none&logoColor=white" title="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-EA4335?style=for-the-badge&logo=none&logoColor=white" title="Deep Learning"/>
-  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=none&logoColor=white" title="Artificial Intelligence"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="38" title="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="38" title="Power BI"/>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+---
 
-## 📊 GitHub Stats 
+### 📚 Currently Deepening
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Performance Overview
+
+<div align="center">
+  <!-- Top languages -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+
+  <!-- Streak stats -->
+  <br/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=gemachistesfaye&theme=algolia&hide_border=true"/>
+</div>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gemachistesfaye&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>        
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GemachisTesfaye&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemachistesfaye&theme=github_dark" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemachistesfaye&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=GemachisTesfaye&theme=react-dark" alt="GitHub Activity Graph">
+  <!-- Activity graph -->
+  <img src="https://activity-graph.vercel.app/graph?username=gemachistesfaye&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
