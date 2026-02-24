@@ -19,26 +19,26 @@
 
 ## 👨‍🎓 About Me  
 
-🎓 3rd-year **Information Science student at Haramaya University**  
-💡 Passionate about **AI Engineering, Frontend Development and Database Systems**  
+🎓 3rd-year **Information Science student at Haramaya University** focused on building **data-driven systems, AI projects, and modern web applications**.  
 
-- ✅ Built: **Ethiopian Airlines DB System** – a complete relational database for flights, crew and student discounts  
-- 🌱 Currently learning: **Python, React.js, SQL, MongoDB, AI frameworks**  
-- 📊 Skilled in: **Database Design, AI model basics, Responsive UI, JavaScript, React, TailwindCSS, CSS Animations, Flask**  
-- 👯 Open to collaborate on: **AI projects, Web Apps, SQL/MongoDB systems, Animated UI projects**  
-- 💬 Ask me about: **Python, SQL, MongoDB, JavaScript, React, AI concepts**  
-- 🎯 Goal: **Grow into an AI Engineer & Frontend Developer**  
-- 📫 Reach me at: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)
+- ✈️ Built a **production-style Ethiopian Airlines Database System** modeling flights, crew, and student discounts using relational design and advanced SQL  
+- 💻 Develop full-stack style projects combining **Python, React, SQL, and modern UI tools**  
+- 📊 Strong in **database design, problem solving, responsive interfaces, and practical AI workflows**  
+- 🚀 Currently improving in **Machine Learning, scalable system design, and real-world analytics projects**  
+- 🤝 Open to collaboration on **AI tools, data systems, dashboards, and real-world web apps**  
+- 🎯 Goal: Become a developer who builds **intelligent, scalable platforms used by real organizations**  
+
+📫 **Reach me:** [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/GemachisTesfaye" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
