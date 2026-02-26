@@ -46,115 +46,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" />
 </h2>
 
----
-
 ## ✨ Highlight Project
 
-### ✈️ [Ethiopian Airlines Database System](https://github.com/gemachistesfaye/Database-Project)
-Production-style relational database modeling airline operations.
-
-- Designed normalized schema (ERD, 3NF)
-- Implemented complex SQL queries & constraints
-- Models flights, crew, passengers and student discounts
-- 🛠 **Tech:** MySQL, SQL
+| Project | Description | Tech / Demo |
+|--------|-------------|-------------|
+| ✈️ [Ethiopian Airlines Database System](https://github.com/gemachistesfaye/Database-Project) | Production-style relational database modeling airline operations.<br>- Designed normalized schema (ERD, 3NF)<br>- Implemented complex SQL queries & constraints<br>- Models flights, crew, passengers and student discounts | 🛠 MySQL, SQL |
 
 ---
 
 ## 🚀 Major Projects
 
-### 🌐 [Portfolio Website](https://github.com/gemachistesfaye/Portfolio)
-Central hub showcasing projects, demos and technical work.
-
-- Interactive UI with responsive layouts
-- Serves as personal developer platform
-- 🛠 **Tech:** React, JavaScript, HTML, CSS
-
-> ▶️ Live demo coming soon
-
-
-### 🇪🇹 [Ethiopian Events Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal)
-Festival platform with Ethiopian calendar logic and reminders.
-
-- Handles dual calendar system
-- Notification-ready structure
-- 🛠 **Tech:** TypeScript, HTML, CSS
-
-> ▶️ Launching soon
-
-
-### 🌱 [HUEPDC Club Website](https://github.com/gemachistesfaye/HUEPDC-Website)
-Collaborative real-world university website project.
-
-- Built production-ready responsive interface
-- Includes charts, galleries and forms
-- Deployed and optimized
-- 🛠 **Tech:** React, JavaScript, Chart.js, EmailJS
-
-> ▶️ https://huepdc-website12.netlify.app/
-
-
-### 📊 [E-Commerce Analytics Dashboard](https://github.com/gemachistesfaye/Ecommerce-Dashboard)
-Business intelligence dashboard analyzing sales data.
-
-- Built data model and visual insights
-- Shows product trends and performance
-- 🛠 **Tech:** Power BI, Excel
+| Project | Description | Tech / Demo |
+|--------|-------------|-------------|
+| 🌐 [Portfolio Website](https://github.com/gemachistesfaye/Portfolio) | Central hub showcasing projects, demos and technical work.<br>- Interactive UI with responsive layouts<br>- Serves as personal developer platform | 🛠 React, JavaScript, HTML, CSS<br>▶️ Live demo coming soon |
+| 🇪🇹 [Ethiopian Events Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal) | Festival platform with Ethiopian calendar logic and reminders.<br>- Handles dual calendar system<br>- Notification-ready structure | 🛠 TypeScript, HTML, CSS<br>▶️ Launching soon |
+| 🌱 [HUEPDC Club Website](https://github.com/gemachistesfaye/HUEPDC-Website) | Collaborative real-world university website project.<br>- Built production-ready responsive interface<br>- Includes charts, galleries and forms<br>- Deployed and optimized | 🛠 React, JavaScript, Chart.js, EmailJS<br>▶️ [Live Demo](https://huepdc-website12.netlify.app/) |
+| 📊 [E-Commerce Analytics Dashboard](https://github.com/gemachistesfaye/Ecommerce-Dashboard) | Business intelligence dashboard analyzing sales data.<br>- Built data model and visual insights<br>- Shows product trends and performance | 🛠 Power BI, Excel |
 
 ---
 
 ## 💻 Web Applications
 
-### 🛍️ [Abebe Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore)
-Interactive Ethiopian bookstore web app.
-
-- Search, filter and responsive UI
-- Clean component structure
-- 🛠 **Tech:** HTML, CSS, JavaScript
-
-> ▶️ https://abebebookstore.vercel.app/
-
-
-### 📝 [Grade Evaluator (Flask)](https://github.com/gemachistesfaye/GradeEvaluator)
-Python web system converting scores to grades.
-
-- Backend logic + UI integration
-- Demonstrates full request-response workflow
-- 🛠 **Tech:** Python, Flask
-
-> ▶️ https://grade-evaluator.onrender.com/
-
-
-### 📈 [Grade Prediction ML System](https://github.com/gemachistesfaye/grade-prediction-system)
-Machine learning project predicting student performance.
-
-- Includes preprocessing + modeling workflow
-- Demonstrates applied ML pipeline
-- 🛠 **Tech:** Python, Pandas, Scikit-learn
+| Project | Description | Tech / Demo |
+|--------|-------------|-------------|
+| 🛍️ [Abebe Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore) | Interactive Ethiopian bookstore web app.<br>- Search, filter and responsive UI<br>- Clean component structure | 🛠 HTML, CSS, JavaScript<br>▶️ [Live Demo](https://abebebookstore.vercel.app/) |
+| 📝 [Grade Evaluator (Flask)](https://github.com/gemachistesfaye/GradeEvaluator) | Python web system converting scores to grades.<br>- Backend logic + UI integration<br>- Demonstrates full request-response workflow | 🛠 Python, Flask<br>▶️ [Live Demo](https://grade-evaluator.onrender.com/) |
+| 📈 [Grade Prediction ML System](https://github.com/gemachistesfaye/grade-prediction-system) | Machine learning project predicting student performance.<br>- Includes preprocessing + modeling workflow<br>- Demonstrates applied ML pipeline | 🛠 Python, Pandas, Scikit-learn |
 
 ---
 
 ## 🧪 Utility & Practice Projects
 
-### 🛡️ [Smart Password Generator](https://github.com/gemachistesfaye/Smart-PWD)
-Local-first secure password generator.
-
-> ▶️ https://gemachistesfaye.github.io/Smart-PWD/
-
-
-### ⏳ [Age Calculator](https://github.com/gemachistesfaye/Age-Calculator)
-Precise date calculation with edge-case handling.
-
-> ▶️ https://gemachistesfaye.github.io/Age-Calculator/
-
-
-### 🏫 [10 Academy Landing Clone](https://github.com/gemachistesfaye/10-Academy-Clone)
-Frontend recreation of a real landing page.
-
-> ▶️ https://10academyclone.vercel.app/
-
-
-### 🎓 [Bootcamp Project Collection](https://github.com/gemachistesfaye/Summer-Bootcamp-Projects)
-Repository of learning exercises and mini apps.
+| Project | Description | Demo |
+|--------|-------------|------|
+| 🛡️ [Smart Password Generator](https://github.com/gemachistesfaye/Smart-PWD) | Local-first secure password generator. | ▶️ [Live Demo](https://gemachistesfaye.github.io/Smart-PWD/) |
+| ⏳ [Age Calculator](https://github.com/gemachistesfaye/Age-Calculator) | Precise date calculation with edge-case handling. | ▶️ [Live Demo](https://gemachistesfaye.github.io/Age-Calculator/) |
+| 🏫 [10 Academy Landing Clone](https://github.com/gemachistesfaye/10-Academy-Clone) | Frontend recreation of a real landing page. | ▶️ [Live Demo](https://10academyclone.vercel.app/) |
+| 🎓 [Bootcamp Project Collection](https://github.com/gemachistesfaye/Summer-Bootcamp-Projects) | Repository of learning exercises and mini apps. | - |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
