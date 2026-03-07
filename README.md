@@ -18,7 +18,7 @@
 
 ## 👨‍🎓 About Me  
 
-🎓 3rd-year **Information Science student at Haramaya University** focused on building **data-driven systems, AI projects, and modern web applications**.  
+🎓 3rd-year **Information Science student at Haramaya University** focused on building **data-driven systems, AI projects and modern web applications**.  
 
 - ✈️ Built a **production-style Ethiopian Airlines Database System** modeling flights, crew and student discounts using relational design and advanced SQL  
 - 💻 Develop full-stack style projects combining **Python, React, SQL and modern UI tools**  
