@@ -148,20 +148,22 @@
 ## 📊 GitHub Performance Overview
 
 <div align="center">
-  <!-- Top languages -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 
-  <!-- Streak stats -->
-  <br/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=gemachistesfaye&theme=algolia&hide_border=true"/>
+  <!-- Row 1 -->
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true"/>
+
+  <br/><br/>
+
+  <!-- Row 2 -->
+  <img height="170em" src="https://streak-stats.demolab.com?user=gemachistesfaye&theme=algolia&hide_border=true"/>
+  <img height="170em" width="420em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemachistesfaye&theme=algolia"/>
+
 </div>
 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemachistesfaye&theme=github_dark" alt="GitHub Summary" />
-</p>
+<br/>
 
 <p align="center">
   <!-- Activity graph -->
-  <img src="https://activity-graph.vercel.app/graph?username=gemachistesfaye&theme=react-dark" alt="GitHub Activity Graph" />
+  <img width="95%" src="https://activity-graph.vercel.app/graph?username=gemachistesfaye&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
