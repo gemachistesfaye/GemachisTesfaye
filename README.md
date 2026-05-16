@@ -1,32 +1,33 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&repeat=false&lines=Hey%20%F0%9F%91%8B;I'm%20Gemachis%20Tesfaye" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&repeat=false&lines=Hey+👋+I'm+Gemachis+Tesfaye" alt="Typing SVG" />
 </h1>
 
 <h2 align="center" style="margin-top: -5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=600&lines=Information%20Science%20Student;Aspiring%20AI%20Engineer%20%26%20Frontend%20Developer;Passionate%20about%20Database%20Systems%20%26%20Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=4000&color=FF6F61&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Intelligent+Web+Systems;React+%7C+Node.js+%7C+Python+%7C+MySQL;Turning+Ideas+into+Real+Products" alt="Typing SVG" />
 </h2>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <!-- Right-aligned coding GIF -->
-<img align="right" alt="Coding" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
-## 👨‍🎓 About Me  
+## 👨‍💻 About Me
 
-🎓 3rd-year **Information Science student at Haramaya University** focused on building **data-driven systems, AI projects and modern web applications**.  
+🎓 3rd-year **Information Science student at Haramaya University** building **full-stack systems, AI-integrated platforms and real-world web applications**.
 
-- ✈️ Built a **production-style Ethiopian Airlines Database System** modeling flights, crew and student discounts using relational design and advanced SQL  
-- 💻 Develop full-stack style projects combining **Python, React, SQL and modern UI tools**  
-- 📊 Strong in **database design, problem solving, responsive interfaces and practical AI workflows**  
-- 🚀 Currently improving in **Machine Learning, scalable system design and real-world analytics projects**  
-- 🤝 Open to collaboration on **AI tools, data systems, dashboards and real-world web apps**  
-- 🎯 Goal: Become a developer who builds **intelligent, scalable platforms used by real organizations**
-- 📫 **Reach me at :**
+- 🔥 Build **end-to-end full-stack apps** using React, Node.js, Express & MySQL with JWT auth, RBAC and REST APIs
+- 🤖 Integrate **AI capabilities** (Google Gemini, OpenAI GPT-4) into production-grade platforms for real user value
+- 🗄️ Design **relational databases** from scratch — ERD modeling, 3NF normalization, complex SQL queries
+- 📊 Deliver **data insights** through Power BI dashboards, Python ML pipelines and business intelligence tools
+- 🚀 Deploy live apps on **Vercel, Render and Netlify** with real users and production environments
+- 🤝 Open to collaboration on **AI tools, SaaS platforms, health-tech, edtech and data systems**
+- 🎯 Goal: Build **intelligent, scalable platforms** that solve real problems for real organizations
+- 📫 **Reach me at:**
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@gmail.com" target="_blank">
@@ -43,94 +44,124 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Best+Projects+(Top+Picks)" />
 </h2>
 
-## ✨ Highlight Project
+<p align="center"><em>Handpicked from 39 repositories — ranked by real-world impact & engineering depth</em></p>
 
-| Project | Description | Tech / Demo |
-|--------|-------------|-------------|
-| ✈️ [Ethiopian Airlines Database System](https://github.com/gemachistesfaye/Database-Project) | Production-style relational database modeling airline operations.<br>- Designed normalized schema (ERD, 3NF)<br>- Implemented complex SQL queries & constraints<br>- Models flights, crew, passengers and student discounts | 🛠 MySQL, SQL |
 
 ---
 
-## 🚀 Major Projects
-
-| Project | Description | Tech / Demo |
-|--------|-------------|-------------|
-| 🌐 [Portfolio Website](https://github.com/gemachistesfaye/Portfolio) | Central hub showcasing projects, demos and technical work.<br>- Interactive UI with responsive layouts<br>- Serves as personal developer platform | 🛠 React, JavaScript, HTML, CSS<br>▶️ Live demo coming soon |
-| 🇪🇹 [Ethiopian Events Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal) | Festival platform with Ethiopian calendar logic and reminders.<br>- Handles dual calendar system<br>- Notification-ready structure | 🛠 TypeScript, HTML, CSS<br>▶️ Launching soon |
-| 🌱 [HUEPDC Club Website](https://github.com/gemachistesfaye/HUEPDC-Website) | Collaborative real-world university website project.<br>- Built production-ready responsive interface<br>- Includes charts, galleries and forms<br>- Deployed and optimized | 🛠 React, JavaScript, Chart.js, EmailJS<br>▶️ [Live Demo](https://huepdc-website12.netlify.app/) |
-| 📊 [E-Commerce Analytics Dashboard](https://github.com/gemachistesfaye/Ecommerce-Dashboard) | Business intelligence dashboard analyzing sales data.<br>- Built data model and visual insights<br>- Shows product trends and performance | 🛠 Power BI, Excel |
+**🥇 #1 — [☕ Ethio-Brew](https://github.com/gemachistesfaye/Ethio-Brew)**
+`React` `Node.js` `MySQL` `Gemini 2.0 AI` · ▶️ [Live Demo](https://ethio-brew.vercel.app)
+> Full production e-commerce platform — multilingual (EN/Amharic/Afaan Oromo), AI coffee sommelier, JWT auth, local payments & live deployment on Vercel + Render.
 
 ---
 
-## 💻 Web Applications
-
-| Project | Description | Tech / Demo |
-|--------|-------------|-------------|
-| 🛍️ [Abebe Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore) | Interactive Ethiopian bookstore web app.<br>- Search, filter and responsive UI<br>- Clean component structure | 🛠 HTML, CSS, JavaScript<br>▶️ [Live Demo](https://abebebookstore.vercel.app/) |
-| 📝 [Grade Evaluator (Flask)](https://github.com/gemachistesfaye/GradeEvaluator) | Python web system converting scores to grades.<br>- Backend logic + UI integration<br>- Demonstrates full request-response workflow | 🛠 Python, Flask<br>▶️ [Live Demo](https://grade-evaluator.onrender.com/) |
-| 📈 [Grade Prediction ML System](https://github.com/gemachistesfaye/grade-prediction-system) | Machine learning project predicting student performance.<br>- Includes preprocessing + modeling workflow<br>- Demonstrates applied ML pipeline | 🛠 Python, Pandas, Scikit-learn |
+**🥈 #2 — [🏥 Sheger Health Connect](https://github.com/gemachistesfaye/Sheger-Health-Connect)**
+`React` `Node.js` `MySQL` `Socket.io` `GPT-4`
+> Healthcare SaaS with 3-role RBAC (Admin, Doctor, Patient), bcrypt + JWT security, Sequelize ORM, real-time events and an AI Triage Assistant.
 
 ---
 
-## 🧪 Utility & Practice Projects
+**🥉 #3 — [🧺 LaundryFlow](https://github.com/gemachistesfaye/LaundryFlow)**
+`React` `Node.js` `MySQL`
+> Industrial-grade 4-role SaaS — smart laundry tracking, AI analytics, automated worker workflows and a full admin control dashboard.
 
-| Project | Description | Demo |
-|--------|-------------|------|
-| 🛡️ [Smart Password Generator](https://github.com/gemachistesfaye/Smart-PWD) | Local-first secure password generator. | ▶️ [Live Demo](https://gemachistesfaye.github.io/Smart-PWD/) |
-| ⏳ [Age Calculator](https://github.com/gemachistesfaye/Age-Calculator) | Precise date calculation with edge-case handling. | ▶️ [Live Demo](https://gemachistesfaye.github.io/Age-Calculator/) |
-| 🏫 [10 Academy Landing Clone](https://github.com/gemachistesfaye/10-Academy-Clone) | Frontend recreation of a real landing page. | ▶️ [Live Demo](https://10academyclone.vercel.app/) |
-| 🎓 [Bootcamp Project Collection](https://github.com/gemachistesfaye/Summer-Bootcamp-Projects) | Repository of learning exercises and mini apps. | - |
+---
+
+**🏅 #4 — [📚 SmartQuiz AI Platform](https://github.com/gemachistesfaye/SmartQuiz-AI-Platform)**
+`React` `Firebase` `Vite` `Gemini Pro AI`
+> EdTech SaaS with gamified XP/streak system, Firestore persistence, Gemini Pro AI assistant and a production-grade quiz engine.
+
+
+---
+
+**🏅 #5 — [🤝 SmartHire AI](https://github.com/gemachistesfaye/SmartHire-AI)**
+`TypeScript` `MIT License`
+> AI-powered hiring platform — intelligent candidate screening, automated recruitment workflows and a modern HR management interface.
+
+---
+
+**🏅 #6 — [🇪🇹 Ethiopian Events Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal)**
+`TypeScript` `HTML` `CSS`
+> Interactive festival platform with dual Ethiopian-Gregorian calendar logic, event reminders and a notification-ready structure for cultural events.
+
+---
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 🧰 Skills & Tools
 
-### 🚀 Core Stack (What I build with)
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42" title="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="42" title="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,php&theme=dark&perline=8" />
 </p>
 
 ---
 
-### 💻 Web & Programming Languages
+### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="38" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark&perline=8" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" title="Framer Motion"/>
 </p>
 
 ---
 
-### 🗄️ Databases & Backend
+### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,socketio&theme=dark&perline=8" />
 </p>
 
 ---
 
-### ⚙️ Tools & Platforms I Use
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="38" title="Netlify"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" title="Postman"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="38" title="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sequelize&theme=dark&perline=8" />
+</p>
+
+---
+
+### 📊 Data Analysis & BI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" title="Power BI"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexceloriginale/microsoftexceloriginal-wordmark.svg" width="48" title="Excel"/>
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark&perline=8" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" title="MySQL Workbench"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
@@ -138,9 +169,11 @@
 ### 📚 Currently Deepening
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-EA4335?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,docker&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/System_Design-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud_Architecture-0080FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-C0392B?style=for-the-badge"/>
 </p>
 
 ---
