@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center" style="margin-top: -5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=4000&color=FF6F61&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Intelligent+Web+Systems;React+%7C+Node.js+%7C+Python+%7C+MySQL;Turning+Ideas+into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=4000&color=FF6F61&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Solutions;Seeking+Software+Engineering+Internship;Building+Scalable+Web+Systems;React+%7C+Node.js+%7C+Python+%7C+SQL" alt="Typing SVG" />
 </h2>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -18,15 +18,18 @@
 
 ## 👨‍💻 About Me
 
-🎓 Information Science student at **Haramaya University** — engineering **production-grade full-stack systems and AI-integrated SaaS platforms** with a scalable architecture mindset.
+🎓 **Information Science student** focused on bridging the gap between robust software architecture and practical AI integration.
 
-- Architect **end-to-end full-stack systems** — RESTful APIs, role-based access control (RBAC), JWT security, relational schema design and multi-environment deployment 🏗️
-- Build **AI-powered features** using Google Gemini 2.0 and OpenAI GPT-4 — from multilingual chat interfaces to intelligent triage and recommendation engines 🤖
-- Design **production-ready databases** from ERD to 3NF normalization — optimized schemas, indexing strategies and complex multi-table SQL queries 🗄️
-- Translate raw data into **actionable business intelligence** via Power BI dashboards, Python ML pipelines and predictive analytics systems 📊
-- Operate with a **full deployment lifecycle mindset** — CI-ready builds, environment configuration, live monitoring on Vercel, Render and Netlify 🚀
-- Apply **security-first development practices** — bcrypt hashing, JWT token lifecycle, parameterized queries and layered role enforcement 🔐
-- Mission: Ship **intelligent, scalable platforms** that solve domain-specific problems for real organizations and real users 🎯
+- **Full Stack Development**: Building end-to-end systems with RESTful APIs, JWT security, and role-based access control (RBAC) 🏗️
+- **AI Integration**: Implementing LLM-powered features (Gemini, GPT-4) into functional web platforms 🤖
+- **Database Engineering**: Designing normalized relational schemas (3NF) and optimizing SQL query performance 🗄️
+- **Deployment & Ops**: Managing the full lifecycle from CI-ready builds to live monitoring on Vercel/Render 🚀
+- **Current Focus**: Seeking a **Software Engineering Internship** to contribute to scalable, intelligent products 🎯
+
+### 🛠️ What I'm working on now:
+- **Learning**: Advanced System Design & Cloud-native architecture.
+- **Building**: A security-focused log monitoring tool to deepen my cybersecurity expertise.
+- **Exploring**: Real-time data processing with WebSockets for high-concurrency systems.
 - 📫 **Let's connect:**
 
 <p align="center">
@@ -50,22 +53,22 @@
 
 **🥇 #1 — [☕ Ethio-Brew](https://github.com/gemachistesfaye/Ethio-Brew)**
 `React` `Node.js` `MySQL` `Gemini 2.0 AI` · ▶️ [Live Demo](https://ethio-brew.vercel.app)
-> **Impact:** Optimized for 1k+ concurrent sessions with 99.9% uptime.
-> Multilingual e-commerce ecosystem (EN/AM/OR) featuring an AI sommelier, Telebirr/CBE payments, and SMTP verification. Engineered for high-conversion SaaS performance.
+> **Impact:** Multilingual e-commerce platform with 99.9% uptime during testing.
+> **Architecture:** Decoupled React frontend communicating with a Node/Express backend via RESTful APIs. Uses JWT-based auth and a normalized MySQL database for order management. Features a Gemini-integrated recommendation engine. 🏗️
 
 ---
 
 **🥈 #2 — [🏥 Sheger Health Connect](https://github.com/gemachistesfaye/Sheger-Health-Connect)**
 `React` `Node.js` `MySQL` `Socket.io` `GPT-4`
-> **Impact:** Reduced triage wait-times by 65% via GPT-4 integration.
-> Enterprise-grade healthcare SaaS with SQL-injection hardened Sequelize ORM, real-time Socket.io events, and secure 3-role RBAC for clinics.
+> **Impact:** Reduced triage wait-times by 65% in simulated clinic workflows.
+> **Architecture:** Role-based system (Patient/Doctor/Admin) using Sequelize ORM and prepared statements for SQL-injection protection. Implements real-time Socket.io notifications for appointment updates and GPT-4 for triage assistance. 🏥
 
 ---
 
 **🥉 #3 — [🧺 LaundryFlow](https://github.com/gemachistesfaye/LaundryFlow)**
 `React` `Node.js` `MySQL`
-> **Impact:** Boosted worker productivity by 40% through automated scheduling.
-> Industrial 4-role SaaS for multi-branch facility management. Features a smart tracking pipeline and AI analytics for operational efficiency.
+> **Impact:** Automated scheduling system increased simulated worker productivity by 40%.
+> **Architecture:** 4-role management system built on a modular Node.js backend. Features a relational data model for complex order tracking and automated status transitions based on worker task completion. 🧺
 
 ---
 
