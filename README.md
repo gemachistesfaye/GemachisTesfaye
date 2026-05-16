@@ -199,7 +199,7 @@
 
   <!-- Row 1 -->
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true"/>
 
   <br/><br/>
 
@@ -213,5 +213,5 @@
 
 <p align="center">
   <!-- Activity graph -->
-  <img width="95%" src="https://activity-graph.vercel.app/graph?username=gemachistesfaye&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gemachistesfaye&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
