@@ -193,16 +193,16 @@
 <div align="center">
 
   <!-- Row 1 -->
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
 
   <br/><br/>
 
   <!-- Row 2: Forced side-by-side with Table -->
   <table align="center">
     <tr>
-      <td><img height="170" src="https://streak-stats.demolab.com?user=gemachistesfaye&theme=algolia&hide_border=true"/></td>
-      <td><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemachistesfaye&theme=algolia"/></td>
+      <td><img height="170" src="https://streak-stats.demolab.com?user=gemachistesfaye&theme=radical&hide_border=true"/></td>
+      <td><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemachistesfaye&theme=radical"/></td>
     </tr>
   </table>
 
@@ -212,5 +212,5 @@
 
 <p align="center">
   <!-- Activity graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gemachistesfaye&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gemachistesfaye&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
