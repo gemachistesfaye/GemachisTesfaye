@@ -212,5 +212,5 @@
 
 <p align="center">
   <!-- Activity graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gemachistesfaye&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gemachistesfaye&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
