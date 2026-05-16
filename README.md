@@ -168,17 +168,7 @@
 
 ---
 
-### 📚 Currently Deepening
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,docker&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/System_Design-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud_Architecture-0080FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-C0392B?style=for-the-badge"/>
-</p>
-
----
 
 ## 💡 What My Profile Communicates
 
