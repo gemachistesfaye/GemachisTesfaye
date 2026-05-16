@@ -20,13 +20,13 @@
 
 🎓 Information Science student at **Haramaya University** — engineering **production-grade full-stack systems and AI-integrated SaaS platforms** with a scalable architecture mindset.
 
-- Architect **end-to-end full-stack systems** — RESTful APIs, role-based access control (RBAC), JWT security, relational schema design and multi-environment deployment
-- Build **AI-powered features** using Google Gemini 2.0 and OpenAI GPT-4 — from multilingual chat interfaces to intelligent triage and recommendation engines
-- Design **production-ready databases** from ERD to 3NF normalization — optimized schemas, indexing strategies and complex multi-table SQL queries
-- Translate raw data into **actionable business intelligence** via Power BI dashboards, Python ML pipelines and predictive analytics systems
-- Operate with a **full deployment lifecycle mindset** — CI-ready builds, environment configuration, live monitoring on Vercel, Render and Netlify
-- Apply **security-first development practices** — bcrypt hashing, JWT token lifecycle, parameterized queries and layered role enforcement
-- Mission: Ship **intelligent, scalable platforms** that solve domain-specific problems for real organizations and real users
+- Architect **end-to-end full-stack systems** — RESTful APIs, role-based access control (RBAC), JWT security, relational schema design and multi-environment deployment 🏗️
+- Build **AI-powered features** using Google Gemini 2.0 and OpenAI GPT-4 — from multilingual chat interfaces to intelligent triage and recommendation engines 🤖
+- Design **production-ready databases** from ERD to 3NF normalization — optimized schemas, indexing strategies and complex multi-table SQL queries 🗄️
+- Translate raw data into **actionable business intelligence** via Power BI dashboards, Python ML pipelines and predictive analytics systems 📊
+- Operate with a **full deployment lifecycle mindset** — CI-ready builds, environment configuration, live monitoring on Vercel, Render and Netlify 🚀
+- Apply **security-first development practices** — bcrypt hashing, JWT token lifecycle, parameterized queries and layered role enforcement 🔐
+- Mission: Ship **intelligent, scalable platforms** that solve domain-specific problems for real organizations and real users 🎯
 - 📫 **Let's connect:**
 
 <p align="center">
@@ -47,7 +47,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Best+Projects+(Top+Picks)" />
 </h2>
 
----
 
 **🥇 #1 — [☕ Ethio-Brew](https://github.com/gemachistesfaye/Ethio-Brew)**
 `React` `Node.js` `MySQL` `Gemini 2.0 AI` · ▶️ [Live Demo](https://ethio-brew.vercel.app)
