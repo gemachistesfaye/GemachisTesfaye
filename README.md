@@ -198,9 +198,13 @@
 
   <br/><br/>
 
-  <!-- Row 2 -->
-  <img height="180" src="https://streak-stats.demolab.com?user=gemachistesfaye&theme=algolia&hide_border=true"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemachistesfaye&theme=algolia"/>
+  <!-- Row 2: Forced side-by-side with Table -->
+  <table align="center">
+    <tr>
+      <td><img height="170" src="https://streak-stats.demolab.com?user=gemachistesfaye&theme=algolia&hide_border=true"/></td>
+      <td><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemachistesfaye&theme=algolia"/></td>
+    </tr>
+  </table>
 
 </div>
 
