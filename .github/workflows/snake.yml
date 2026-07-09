@@ -22,9 +22,9 @@ jobs:
           github_user_name: gemachistesfaye
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23A855F7&color_dots=%230D1117,%23161B22,%231F242D,%232A313C,%23363F4A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23A855F7&color_dots=%23161B22,%230E4429,%2300651D,%2326A641,%2339D353
 
-      - name: Commit generated files
+      - name: Commit Generated Files
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist"
