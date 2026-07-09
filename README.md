@@ -282,15 +282,24 @@ AI-powered learning platform creating interactive educational experiences.
 </div>
 
 ---
-
-## 🐍 Contribution Activity
+## 🐍 Contribution Journey
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gemachistesfaye/gemachistesfaye/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gemachistesfaye/gemachistesfaye/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gemachistesfaye/gemachistesfaye/output/github-contribution-grid-snake.svg">
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/dist/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/dist/github-contribution-grid-snake.svg">
+
+<img
+alt="github contribution snake animation"
+src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/dist/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
