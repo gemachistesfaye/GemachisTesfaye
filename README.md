@@ -6,14 +6,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+scalable+full-stack+applications+with+AI;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+MySQL;Designing+secure+backend+systems+and+REST+APIs;Information+Science+Student+at+Haramaya+University)](https://readme-typing-svg.demolab.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gemachisdev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gemachis-tesfaye-137196318)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gemachistesfaye36@gmail.com)
@@ -35,9 +27,7 @@
 
 ### 👨‍💻 About Me
 
-I build **full-stack systems with practical AI integration**, focusing on scalable, secure, and user-centered software solutions.
-
-My work combines modern web technologies, backend engineering, database design, and AI capabilities to solve real-world problems — especially for Ethiopian and African users.
+I build **full-stack systems with practical AI integration**, focusing on scalable, secure, and user-centered software solutions. My work combines modern web technologies, backend engineering, database design, and AI capabilities to solve real-world problems — especially for Ethiopian and African users.
 
 - 🎓 Information Science student at **Haramaya University**
 - 💻 Building full-stack applications with **React, Node.js, TypeScript, and AI technologies**
@@ -53,19 +43,13 @@ My work combines modern web technologies, backend engineering, database design, 
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="55px" alt="journey icon" />
 
-&nbsp; **I started with curiosity about how software systems are built and how technology can solve real problems.**
+**I started with curiosity about how software systems are built and how technology solves real-world problems.**
 
 <br/>
 
-That curiosity led me from building simple web pages with **HTML, CSS, and JavaScript** into developing complete applications using **React, Node.js, and Express**.
+That curiosity led me from **HTML, CSS, and JavaScript** to building full-stack applications with **React, Node.js, Express, MySQL, Firebase, JWT, and AI technologies**. Today, I'm focused on **backend engineering, system design, cloud technologies, and AI integration**, building practical software that creates real impact.
 
-As I explored backend engineering, I learned database design with **MySQL and Firebase**, implemented secure authentication using **JWT and RBAC**, and began integrating **Gemini and GPT-based AI features** into real-world applications.
-
-Through different projects, I have built systems across healthcare, education, e-commerce, and productivity domains — focusing on creating software that is practical, scalable, and useful for Ethiopian and African users.
-
-Today, I focus on becoming a better software engineer by improving my skills in **system design, backend architecture, AI integration, and cloud technologies**.
-
-> *"The best engineering problems are not solved in tutorials — they are solved by building software that works for real users."*
+> *"The best engineering problems are not solved in tutorials—they are solved by building software that works for real users."*
 
 ---
 
