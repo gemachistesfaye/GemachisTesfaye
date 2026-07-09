@@ -2,19 +2,20 @@ name: Generate Snake Animation
 
 on:
   schedule:
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
 
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Generate Snake Animation
@@ -23,10 +24,10 @@ jobs:
           github_user_name: gemachistesfaye
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58A6FF&color_dots=#161B22,#0D1117,#21262D,#30363D,#58A6FF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit generated files
+      - name: Commit Generated Files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update contribution snake animation"
           add: "dist"
+          message: "chore: update contribution snake animation"
