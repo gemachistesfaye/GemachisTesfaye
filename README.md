@@ -55,100 +55,45 @@ That curiosity led me from **HTML, CSS, and JavaScript** to building full-stack 
 
 # 🚀 Featured Projects
 
-<div >
-
 Selected projects demonstrating full-stack engineering, AI integration, and real-world problem solving.
 
-</div>
+---
 
-<br/>
+### 🏢 SmartBiz ERP Lite
+Full-featured business ERP system for managing operations, inventory, and financial workflows.  
+`React` • `Node.js` • `MySQL` • `JWT` • `REST API`
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏢 SmartBiz ERP Lite
-
-Full-featured business ERP system for managing operations, inventory, and financial workflows.
-
-**✨ Highlights**
 - 📦 Inventory & product management
-- 💰 Financial & payment workflows
-- 📊 Business analytics dashboard
-- 🔐 Role-based access control
+- 💰 Financial & payment workflows & RBAC
 
-**🛠️ Stack**
+---
 
-`React` `Node.js` `MySQL` `JWT` `REST API`
+### 🔧 Garage Management System
+Complete garage management platform with CRUD operations, inventory tracking, and payment processing.  
+`React` • `Node.js` • `PostgreSQL` • `Express` • `JWT`
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🔧 Garage Management System
-
-Complete garage management platform with CRUD operations, inventory tracking, and payment processing.
-
-**✨ Highlights**
 - 🚗 Vehicle & service management
-- 📦 Inventory tracking system
-- 💳 Payment processing
-- 🔐 RBAC & secure workflows
+- 💳 Payment processing & secure RBAC
 
-**🛠️ Stack**
+---
 
-`React` `Node.js` `PostgreSQL` `Express` `JWT`
+### 🏥 Sheger Health Connect
+AI-assisted healthcare platform connecting patients, doctors, and administrators.  
+`React` • `Node.js` • `MySQL` • `Socket.io` • `GPT-4`
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏥 Sheger Health Connect
-
-AI-assisted healthcare platform connecting patients, doctors, and administrators.
-
-**✨ Highlights**
-- 🔐 Role-based access control
-- 📅 Appointment management
-- 🔄 Real-time system updates
+- 📅 Appointment management & real-time updates
 - 🤖 AI healthcare assistance
 
-**🛠️ Stack**
+---
 
-`React` `Node.js` `MySQL` `Socket.io` `GPT-4`
+### 📚 EduFlow
+Comprehensive education management system with complex academic workflows and administration.  
+`React` • `Node.js` • `MySQL` • `Express` • `JWT`
 
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 EduFlow
-
-Comprehensive education management system with complex academic workflows and administration.
-
-**✨ Highlights**
 - 🎓 Student & course management
-- 📊 Grade tracking & reports
-- 👥 Multi-role administration
-- 📅 Schedule & workflow automation
+- 📊 Grade tracking & workflow automation
 
-**🛠️ Stack**
-
-`React` `Node.js` `MySQL` `Express` `JWT`
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+---
 
 ## 📊 GitHub Overview
 
