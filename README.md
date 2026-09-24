@@ -33,7 +33,11 @@ I build **full-stack systems and practical AI-powered applications**, focusing o
 - 💻 Building full-stack applications with **React, Node.js, TypeScript, PostgreSQL, and Prisma**
 - 🔐 Developing my skills in **backend engineering, system design, security, and scalable architectures**
 - 🤖 Exploring **AI applications, LLMs, and intelligent software systems**
-- 🏗️ Building real-world **business, education, healthcare, and management systems** through projects and **URJIKO Labs**
+- 🏗️ Building real-world **business, education, healthcare, and management systems** through projects and [**URJIKO Labs**](https://urjikolabs.vercel.app)
+
+<br/>
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <br clear="right"/>
 
@@ -129,5 +133,17 @@ alt="github contribution snake animation"
 src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/dist/github-contribution-grid-snake-dark.svg">
 
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+💬 **Let's build something together!** Feel free to reach out via [Email](mailto:gemachistesfaye36@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gemachis-tesfaye-137196318).
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=100&section=footer" />
 
 </div>
