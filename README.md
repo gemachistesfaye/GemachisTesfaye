@@ -181,7 +181,7 @@ srcset="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/d
 
 <img
 alt="github contribution snake animation"
-src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/dist/github-contribution-grid-snake.svg">
+src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/dist/github-contribution-grid-snake-dark.svg">
 
 </picture>
 
