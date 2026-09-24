@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:0d47a1&height=200&section=header&text=Gemachis%20Tesfaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20AI-Powered%20Applications&descAlignY=60&descSize=18&descColor=90caf9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=200&section=header&text=Gemachis%20Tesfaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20AI-Powered%20Applications&descAlignY=60&descSize=18&descColor=90caf9&animation=fadeIn" />
 
 </div>
 
@@ -27,13 +27,13 @@
 
 ### 👨‍💻 About Me
 
-I build **full-stack systems and practical AI-powered applications**, focusing on secure, scalable, and user-centered software solutions. My work combines modern web development, backend engineering, database design, and AI technologies to solve real-world problems, with a focus on practical solutions for Ethiopian and African users.
+I build **full-stack systems with practical AI integration**, focusing on scalable, secure, and user-centered software solutions. My work combines modern web technologies, backend engineering, database design, and AI capabilities to solve real-world problems — especially for Ethiopian and African users.
 
 - 🎓 Information Science student at **Haramaya University**
-- 💻 Building full-stack applications with **React, Node.js, TypeScript, PostgreSQL, and Prisma**
-- 🔐 Developing my skills in **backend engineering, system design, security, and scalable architectures**
-- 🤖 Exploring **AI applications, LLMs, and intelligent software systems**
-- 🏗️ Building real-world **business, education, healthcare, and management systems** through projects and **URJIKO Labs**
+- 💻 Building full-stack applications with **React, Node.js, TypeScript, and AI technologies**
+- 🔐 Interested in **backend engineering, system design, security, and scalable architectures**
+- 🤖 Exploring **LLM applications, AI agents, and intelligent software systems**
+- 🚀 Currently building security-focused developer tools and AI-powered platforms
 
 <br clear="right"/>
 
