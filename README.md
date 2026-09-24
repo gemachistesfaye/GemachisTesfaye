@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:0d47a1&height=200&section=header&text=Gemachis%20Tesfaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20AI-Powered%20Applications&descAlignY=60&descSize=18&descColor=90caf9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:00bcd4&height=200&section=header&text=Gemachis%20Tesfaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20AI-Powered%20Applications&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 </div>
 
@@ -13,11 +13,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile%20Views&color=0d1117&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile%20Views&color=1a1b27&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/gemachistesfaye?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+<img src="https://img.shields.io/github/followers/gemachistesfaye?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1a1b27"/>
 
-<img src="https://img.shields.io/github/stars/gemachistesfaye?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+<img src="https://img.shields.io/github/stars/gemachistesfaye?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=1a1b27"/>
 
 </div>
 
@@ -155,13 +155,13 @@ AI-powered learning platform creating interactive educational experiences.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=gemachistesfaye&theme=algolia&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=gemachistesfaye&theme=tokyonight&hide_border=true"/>
 
 </div>
 
