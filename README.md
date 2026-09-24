@@ -53,7 +53,7 @@ That curiosity led me from **HTML, CSS, and JavaScript** to building full-stack 
 
 ---
 
-# 🚀 Featured Projects
+# ⚡ Featured Projects
 
 Selected projects demonstrating full-stack engineering, AI integration, and real-world problem solving.
 
