@@ -27,13 +27,13 @@
 
 ### 👨‍💻 About Me
 
-I build **full-stack systems with practical AI integration**, focusing on scalable, secure, and user-centered software solutions. My work combines modern web technologies, backend engineering, database design, and AI capabilities to solve real-world problems — especially for Ethiopian and African users.
+I build **full-stack systems and practical AI-powered applications**, focusing on secure, scalable, and user-centered software solutions. My work combines modern web development, backend engineering, database design, and AI technologies to solve real-world problems, with a focus on practical solutions for Ethiopian and African users.
 
 - 🎓 Information Science student at **Haramaya University**
-- 💻 Building full-stack applications with **React, Node.js, TypeScript, and AI technologies**
-- 🔐 Interested in **backend engineering, system design, security, and scalable architectures**
-- 🤖 Exploring **LLM applications, AI agents, and intelligent software systems**
-- 🚀 Currently building security-focused developer tools and AI-powered platforms
+- 💻 Building full-stack applications with **React, Node.js, TypeScript, PostgreSQL, and Prisma**
+- 🔐 Developing my skills in **backend engineering, system design, security, and scalable architectures**
+- 🤖 Exploring **AI applications, LLMs, and intelligent software systems**
+- 🏗️ Building real-world **business, education, healthcare, and management systems** through projects and **URJIKO Labs**
 
 <br clear="right"/>
 
