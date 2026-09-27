@@ -94,12 +94,12 @@ Comprehensive education management system with complex academic workflows and ad
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=1e3a8a&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8"/>
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&bg_color=0d1117&border_color=1e3a8a&title_color=38bdf8&text_color=e2e8f0"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=1e3a8a&title_color=90caf9&text_color=ffffff&icon_color=90caf9"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&bg_color=0d1117&border_color=1e3a8a&title_color=90caf9&text_color=ffffff"/>
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=gemachistesfaye&background=0d1117&border=1e3a8a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=38bdf8&dates=a78bfa&date_format=M%20j%5C,%20Y"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=gemachistesfaye&background=0d1117&border=1e3a8a&stroke=90caf9&ring=90caf9&fire=90caf9&currStreakNum=ffffff&sideNums=ffffff&sideLabels=90caf9&dates=90caf9&date_format=M%20j%5C,%20Y"/>
 
 </div>
 
