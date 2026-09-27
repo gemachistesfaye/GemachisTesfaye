@@ -99,7 +99,7 @@ Comprehensive education management system with complex academic workflows and ad
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=gemachistesfaye&background=0d1117&border=1e3a8a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&date_format=M%20j%5C,%20Y"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=gemachistesfaye&background=0d1117&border=1e3a8a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=38bdf8&dates=a78bfa&date_format=M%20j%5C,%20Y"/>
 
 </div>
 
