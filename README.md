@@ -6,18 +6,9 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gemachisdev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gemachis-tesfaye-137196318)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gemachistesfaye36@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gemachistesfaye)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile%20Views&color=0d1117&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/gemachistesfaye?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
-
-<img src="https://img.shields.io/github/stars/gemachistesfaye?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile%20Views&color=1a1b27&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/gemachistesfaye?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=1a1b27"/>
+[![Ethiopia GitHub Ranking](https://user-badge.committers.top/ethiopia/gemachistesfaye.svg)](https://committers.top/ethiopia#gemachistesfaye)
 
 </div>
 
@@ -27,13 +18,13 @@
 
 ### 👨‍💻 About Me
 
-I build **full-stack systems and practical AI-powered applications**, focusing on secure, scalable, and user-centered software solutions. My work combines modern web development, backend engineering, database design, and AI technologies to solve real-world problems, with a focus on practical solutions for Ethiopian and African users.
+I build **full-stack systems and AI-powered applications** with a focus on secure, scalable, and user-centered software. My work combines **frontend and backend engineering, database design, and AI integration** to solve real-world problems, particularly for Ethiopian and African contexts.
 
 - 🎓 Information Science student at **Haramaya University**
 - 💻 Building full-stack applications with **React, Node.js, TypeScript, PostgreSQL, and Prisma**
-- 🔐 Developing my skills in **backend engineering, system design, security, and scalable architectures**
-- 🤖 Exploring **AI applications, LLMs, and intelligent software systems**
-- 🏗️ Building real-world **business, education, healthcare, and management systems** through projects and [**URJIKO Labs**](https://urjikolabs.vercel.app)
+- ⚙️ Growing in **backend engineering, system design, security, cloud technologies, and scalable architectures**
+- 🤖 Building and exploring **AI/ML applications, LLM integration, recommendation systems, and intelligent software**
+- 🏗️ Developing solutions across **business, education, healthcare, and management** through personal projects and [**URJIKO Labs**](https://urjikolabs.vercel.app)
 
 <br/>
 
