@@ -131,7 +131,7 @@ src="https://raw.githubusercontent.com/gemachistesfaye/GemachisTesfaye/main/dist
 
 <div align="center">
 
-💬 **Let's build something together!** Feel free to reach out via [Email](mailto:gemachistesfaye36@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gemachis-tesfaye-137196318).
+💬 **Let's build something together!** Feel free to reach out via [Email](mailto:gemachis.tesfaye.dev@gmail.com) or connect on [Telegram](https://t.me/urjiiko1).
 
 <br/>
 
