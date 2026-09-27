@@ -100,7 +100,7 @@ Comprehensive education management system with complex academic workflows and ad
 <br/><br/>
 
 <img height="180" src="https://streak-stats.demolab.com/?user=gemachistesfaye&theme=algolia&hide_border=true"/>
-<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=gemachistesfaye&theme=algolia&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gemachistesfaye&repo=Sheger-Health-Connect&theme=algolia&hide_border=true"/>
 
 </div>
 
