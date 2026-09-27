@@ -94,8 +94,8 @@ Comprehensive education management system with complex academic workflows and ad
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=38bdf8&title_color=90caf9&text_color=ffffff&icon_color=90caf9"/>
-<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&bg_color=0d1117&border_color=38bdf8&title_color=90caf9&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=gemachistesfaye&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=38bdf8&title_color=90caf9&text_color=90caf9&icon_color=90caf9"/>
+<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gemachistesfaye&layout=compact&langs_count=8&bg_color=0d1117&border_color=38bdf8&title_color=90caf9&text_color=90caf9"/>
 
 <br/><br/>
 
