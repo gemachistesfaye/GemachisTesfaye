@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=gemachistesfaye&label=Profile%20Views&color=1a1b27&style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/gemachistesfaye?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=1a1b27"/>
-[![Ethiopia GitHub Ranking](https://user-badge.committers.top/ethiopia/gemachistesfaye.svg)](https://committers.top/ethiopia#gemachistesfaye)
+<a href="https://committers.top/ethiopia#gemachistesfaye"><img src="https://user-badge.committers.top/ethiopia/gemachistesfaye.svg" alt="Ethiopia GitHub Ranking" /></a>
 
 </div>
 
